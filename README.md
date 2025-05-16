@@ -1,13 +1,51 @@
-# Discover
+<h1 align="center"> DevLinks </h1>
 
-Projeto do Curso Discover, com materiais complementares e mais detalhes no <a href="https://efficient-sloth-d85.notion.site/Materiais-complementares-d7841615addc4269ba5c5bba12a6edbe" target="_blank">notion</a>
+<p align="center">
+Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.</br>
+</p>
 
-Durante o curso, o instrutor desenvolve um projeto prático de agregador de links para usar como cartão de visitas online.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-O curso possui 6 módulos:
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-- Primeiros passos
-- Aprendendo a aprender
+<br>
+
+<p align="center">
+  <img alt="projeto DevLinks" src="./assets/capa.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 - HTML e CSS
-- Javascript
+- JavaScript
 - Git e Github
+- Figma
+
+## 💻 Projeto
+
+O DevLinks é um agregador de links para usar como cartão de visitas online.
+
+<!-- - [Acesse o projeto finalizado, online]() -->
+
+- [Assistir aulas](https://app.rocketseat.com.br/journey/discover/overview)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT.
+
+---
+
+Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
